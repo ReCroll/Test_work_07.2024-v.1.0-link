@@ -610,7 +610,7 @@ footer > strong > h1 > a:hover {
 
 @media (max-width: 90em) {
   .header {
-    min-width: 4.6875rem;
+    min-width: 5.6875rem;
     padding: 2.25rem 0.75rem 4.75rem 0.75rem;
     background-color: transparent;
   }
